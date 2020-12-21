@@ -1,0 +1,17 @@
+mappings:
+<% (0..3).each do |bank| %>
+  <% (0..15).each do |knob| %>
+    bank_<%= bank + 1 %>_knob_<%= knob + 1 %>:
+      channel: 0
+      function: <%= bank * 16 + knob %>
+      type: fader
+  <% end %>
+  <% (0..15).each do |knob| %>
+    bank_<%= bank + 1 %>_button_<%= knob + 1 %>:
+      channel: 1
+      function: <%= bank * 16 + knob %>
+      type: button
+  <% end %>
+<% end %>
+
+regex: Fighter Twister

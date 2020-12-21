@@ -1,0 +1,656 @@
+mappings:
+
+  
+    bank_1_knob_1:
+      channel: 0
+      function: 0
+      type: fader
+  
+    bank_1_knob_2:
+      channel: 0
+      function: 1
+      type: fader
+  
+    bank_1_knob_3:
+      channel: 0
+      function: 2
+      type: fader
+  
+    bank_1_knob_4:
+      channel: 0
+      function: 3
+      type: fader
+  
+    bank_1_knob_5:
+      channel: 0
+      function: 4
+      type: fader
+  
+    bank_1_knob_6:
+      channel: 0
+      function: 5
+      type: fader
+  
+    bank_1_knob_7:
+      channel: 0
+      function: 6
+      type: fader
+  
+    bank_1_knob_8:
+      channel: 0
+      function: 7
+      type: fader
+  
+    bank_1_knob_9:
+      channel: 0
+      function: 8
+      type: fader
+  
+    bank_1_knob_10:
+      channel: 0
+      function: 9
+      type: fader
+  
+    bank_1_knob_11:
+      channel: 0
+      function: 10
+      type: fader
+  
+    bank_1_knob_12:
+      channel: 0
+      function: 11
+      type: fader
+  
+    bank_1_knob_13:
+      channel: 0
+      function: 12
+      type: fader
+  
+    bank_1_knob_14:
+      channel: 0
+      function: 13
+      type: fader
+  
+    bank_1_knob_15:
+      channel: 0
+      function: 14
+      type: fader
+  
+    bank_1_knob_16:
+      channel: 0
+      function: 15
+      type: fader
+  
+  
+    bank_1_button_1:
+      channel: 1
+      function: 0
+      type: button
+  
+    bank_1_button_2:
+      channel: 1
+      function: 1
+      type: button
+  
+    bank_1_button_3:
+      channel: 1
+      function: 2
+      type: button
+  
+    bank_1_button_4:
+      channel: 1
+      function: 3
+      type: button
+  
+    bank_1_button_5:
+      channel: 1
+      function: 4
+      type: button
+  
+    bank_1_button_6:
+      channel: 1
+      function: 5
+      type: button
+  
+    bank_1_button_7:
+      channel: 1
+      function: 6
+      type: button
+  
+    bank_1_button_8:
+      channel: 1
+      function: 7
+      type: button
+  
+    bank_1_button_9:
+      channel: 1
+      function: 8
+      type: button
+  
+    bank_1_button_10:
+      channel: 1
+      function: 9
+      type: button
+  
+    bank_1_button_11:
+      channel: 1
+      function: 10
+      type: button
+  
+    bank_1_button_12:
+      channel: 1
+      function: 11
+      type: button
+  
+    bank_1_button_13:
+      channel: 1
+      function: 12
+      type: button
+  
+    bank_1_button_14:
+      channel: 1
+      function: 13
+      type: button
+  
+    bank_1_button_15:
+      channel: 1
+      function: 14
+      type: button
+  
+    bank_1_button_16:
+      channel: 1
+      function: 15
+      type: button
+  
+
+  
+    bank_2_knob_1:
+      channel: 0
+      function: 16
+      type: fader
+  
+    bank_2_knob_2:
+      channel: 0
+      function: 17
+      type: fader
+  
+    bank_2_knob_3:
+      channel: 0
+      function: 18
+      type: fader
+  
+    bank_2_knob_4:
+      channel: 0
+      function: 19
+      type: fader
+  
+    bank_2_knob_5:
+      channel: 0
+      function: 20
+      type: fader
+  
+    bank_2_knob_6:
+      channel: 0
+      function: 21
+      type: fader
+  
+    bank_2_knob_7:
+      channel: 0
+      function: 22
+      type: fader
+  
+    bank_2_knob_8:
+      channel: 0
+      function: 23
+      type: fader
+  
+    bank_2_knob_9:
+      channel: 0
+      function: 24
+      type: fader
+  
+    bank_2_knob_10:
+      channel: 0
+      function: 25
+      type: fader
+  
+    bank_2_knob_11:
+      channel: 0
+      function: 26
+      type: fader
+  
+    bank_2_knob_12:
+      channel: 0
+      function: 27
+      type: fader
+  
+    bank_2_knob_13:
+      channel: 0
+      function: 28
+      type: fader
+  
+    bank_2_knob_14:
+      channel: 0
+      function: 29
+      type: fader
+  
+    bank_2_knob_15:
+      channel: 0
+      function: 30
+      type: fader
+  
+    bank_2_knob_16:
+      channel: 0
+      function: 31
+      type: fader
+  
+  
+    bank_2_button_1:
+      channel: 1
+      function: 16
+      type: button
+  
+    bank_2_button_2:
+      channel: 1
+      function: 17
+      type: button
+  
+    bank_2_button_3:
+      channel: 1
+      function: 18
+      type: button
+  
+    bank_2_button_4:
+      channel: 1
+      function: 19
+      type: button
+  
+    bank_2_button_5:
+      channel: 1
+      function: 20
+      type: button
+  
+    bank_2_button_6:
+      channel: 1
+      function: 21
+      type: button
+  
+    bank_2_button_7:
+      channel: 1
+      function: 22
+      type: button
+  
+    bank_2_button_8:
+      channel: 1
+      function: 23
+      type: button
+  
+    bank_2_button_9:
+      channel: 1
+      function: 24
+      type: button
+  
+    bank_2_button_10:
+      channel: 1
+      function: 25
+      type: button
+  
+    bank_2_button_11:
+      channel: 1
+      function: 26
+      type: button
+  
+    bank_2_button_12:
+      channel: 1
+      function: 27
+      type: button
+  
+    bank_2_button_13:
+      channel: 1
+      function: 28
+      type: button
+  
+    bank_2_button_14:
+      channel: 1
+      function: 29
+      type: button
+  
+    bank_2_button_15:
+      channel: 1
+      function: 30
+      type: button
+  
+    bank_2_button_16:
+      channel: 1
+      function: 31
+      type: button
+  
+
+  
+    bank_3_knob_1:
+      channel: 0
+      function: 32
+      type: fader
+  
+    bank_3_knob_2:
+      channel: 0
+      function: 33
+      type: fader
+  
+    bank_3_knob_3:
+      channel: 0
+      function: 34
+      type: fader
+  
+    bank_3_knob_4:
+      channel: 0
+      function: 35
+      type: fader
+  
+    bank_3_knob_5:
+      channel: 0
+      function: 36
+      type: fader
+  
+    bank_3_knob_6:
+      channel: 0
+      function: 37
+      type: fader
+  
+    bank_3_knob_7:
+      channel: 0
+      function: 38
+      type: fader
+  
+    bank_3_knob_8:
+      channel: 0
+      function: 39
+      type: fader
+  
+    bank_3_knob_9:
+      channel: 0
+      function: 40
+      type: fader
+  
+    bank_3_knob_10:
+      channel: 0
+      function: 41
+      type: fader
+  
+    bank_3_knob_11:
+      channel: 0
+      function: 42
+      type: fader
+  
+    bank_3_knob_12:
+      channel: 0
+      function: 43
+      type: fader
+  
+    bank_3_knob_13:
+      channel: 0
+      function: 44
+      type: fader
+  
+    bank_3_knob_14:
+      channel: 0
+      function: 45
+      type: fader
+  
+    bank_3_knob_15:
+      channel: 0
+      function: 46
+      type: fader
+  
+    bank_3_knob_16:
+      channel: 0
+      function: 47
+      type: fader
+  
+  
+    bank_3_button_1:
+      channel: 1
+      function: 32
+      type: button
+  
+    bank_3_button_2:
+      channel: 1
+      function: 33
+      type: button
+  
+    bank_3_button_3:
+      channel: 1
+      function: 34
+      type: button
+  
+    bank_3_button_4:
+      channel: 1
+      function: 35
+      type: button
+  
+    bank_3_button_5:
+      channel: 1
+      function: 36
+      type: button
+  
+    bank_3_button_6:
+      channel: 1
+      function: 37
+      type: button
+  
+    bank_3_button_7:
+      channel: 1
+      function: 38
+      type: button
+  
+    bank_3_button_8:
+      channel: 1
+      function: 39
+      type: button
+  
+    bank_3_button_9:
+      channel: 1
+      function: 40
+      type: button
+  
+    bank_3_button_10:
+      channel: 1
+      function: 41
+      type: button
+  
+    bank_3_button_11:
+      channel: 1
+      function: 42
+      type: button
+  
+    bank_3_button_12:
+      channel: 1
+      function: 43
+      type: button
+  
+    bank_3_button_13:
+      channel: 1
+      function: 44
+      type: button
+  
+    bank_3_button_14:
+      channel: 1
+      function: 45
+      type: button
+  
+    bank_3_button_15:
+      channel: 1
+      function: 46
+      type: button
+  
+    bank_3_button_16:
+      channel: 1
+      function: 47
+      type: button
+  
+
+  
+    bank_4_knob_1:
+      channel: 0
+      function: 48
+      type: fader
+  
+    bank_4_knob_2:
+      channel: 0
+      function: 49
+      type: fader
+  
+    bank_4_knob_3:
+      channel: 0
+      function: 50
+      type: fader
+  
+    bank_4_knob_4:
+      channel: 0
+      function: 51
+      type: fader
+  
+    bank_4_knob_5:
+      channel: 0
+      function: 52
+      type: fader
+  
+    bank_4_knob_6:
+      channel: 0
+      function: 53
+      type: fader
+  
+    bank_4_knob_7:
+      channel: 0
+      function: 54
+      type: fader
+  
+    bank_4_knob_8:
+      channel: 0
+      function: 55
+      type: fader
+  
+    bank_4_knob_9:
+      channel: 0
+      function: 56
+      type: fader
+  
+    bank_4_knob_10:
+      channel: 0
+      function: 57
+      type: fader
+  
+    bank_4_knob_11:
+      channel: 0
+      function: 58
+      type: fader
+  
+    bank_4_knob_12:
+      channel: 0
+      function: 59
+      type: fader
+  
+    bank_4_knob_13:
+      channel: 0
+      function: 60
+      type: fader
+  
+    bank_4_knob_14:
+      channel: 0
+      function: 61
+      type: fader
+  
+    bank_4_knob_15:
+      channel: 0
+      function: 62
+      type: fader
+  
+    bank_4_knob_16:
+      channel: 0
+      function: 63
+      type: fader
+  
+  
+    bank_4_button_1:
+      channel: 1
+      function: 48
+      type: button
+  
+    bank_4_button_2:
+      channel: 1
+      function: 49
+      type: button
+  
+    bank_4_button_3:
+      channel: 1
+      function: 50
+      type: button
+  
+    bank_4_button_4:
+      channel: 1
+      function: 51
+      type: button
+  
+    bank_4_button_5:
+      channel: 1
+      function: 52
+      type: button
+  
+    bank_4_button_6:
+      channel: 1
+      function: 53
+      type: button
+  
+    bank_4_button_7:
+      channel: 1
+      function: 54
+      type: button
+  
+    bank_4_button_8:
+      channel: 1
+      function: 55
+      type: button
+  
+    bank_4_button_9:
+      channel: 1
+      function: 56
+      type: button
+  
+    bank_4_button_10:
+      channel: 1
+      function: 57
+      type: button
+  
+    bank_4_button_11:
+      channel: 1
+      function: 58
+      type: button
+  
+    bank_4_button_12:
+      channel: 1
+      function: 59
+      type: button
+  
+    bank_4_button_13:
+      channel: 1
+      function: 60
+      type: button
+  
+    bank_4_button_14:
+      channel: 1
+      function: 61
+      type: button
+  
+    bank_4_button_15:
+      channel: 1
+      function: 62
+      type: button
+  
+    bank_4_button_16:
+      channel: 1
+      function: 63
+      type: button
+  
+
+
+regex: Fighter Twister
